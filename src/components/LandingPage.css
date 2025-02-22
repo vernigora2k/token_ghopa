@@ -1,0 +1,72 @@
+.landing {
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero {
+    background: linear-gradient(to right, #ff512f, #dd2476);
+    color: white;
+    padding: 50px 20px;
+    border-radius: 10px;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .buy-button {
+    background-color: white;
+    color: #ff512f;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .buy-button:hover {
+    background-color: #ddd;
+  }
+  
+  .roadmap {
+    margin-top: 40px;
+    padding: 20px;
+  }
+  
+  .roadmap h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .roadmap ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .roadmap li {
+    background: white;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    font-size: 1.2rem;
+  }
+  
+  .footer {
+    margin-top: 40px;
+    padding: 10px;
+    background: #333;
+    color: white;
+    border-radius: 5px;
+  }
+  
